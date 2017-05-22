@@ -34,9 +34,9 @@ The Internet is the global system of interconnected computer networks that use t
 1. Start with 1 sport (expanding to other sports later).
 2. Audience is the players.
 3. Save Games.
-  *Compute Averages.
-  *Rankings.
-  *Locations/Maps.
+  * Compute Averages.
+  * Rankings.
+  * Locations/Maps.
 4.Course Info.
 5. Log in.
 6. Save distances of individual throws.  
@@ -51,15 +51,15 @@ The Internet is the global system of interconnected computer networks that use t
 2. Domain
 
 3. Registration
-  *Requiered
-      a.First Name
-      b.Last Name
-      c.Username
-      d.Email
-      e.Password
-      f.Confirm Password
-      g.Captcha ?
-  *Not Req
+  * Requiered
+      a. First Name
+      b. Last Name
+      c. Username
+      d. Email
+      e. Password
+      f. Confirm Password
+      g. Captcha ?
+  * Not Req
     a. payment
     b. picture    
 
@@ -81,27 +81,27 @@ The Internet is the global system of interconnected computer networks that use t
   *Home
 
 8. Pages
-  *Home
+  * Home
     a. About
-  *MyGames
+  * MyGames
     a. add new game entry
     b. current game
     c. List games
     d. Filter the list
     e. Detail page
-  *Ranking
-  *Find other Players
-    *Review other players
-    *Search Form
-  *Map of Local Courses
+  * Ranking
+  * Find other Players
+    * Review other players
+    * Search Form
+  * Map of Local Courses
     a. Reviews of courses
-  *Schedule/Calender
-    a.People Scheduling Games
-    b.Course changes  
-    c.Tournements
+  * Schedule/Calender
+    a. People Scheduling Games
+    b. Course changes  
+    c. Tournements
     d. Leagues 
- *Resources  
- *Contact Local Organizers 
+ * Resources  
+ * Contact Local Organizers 
 
 
  ## Disc Golf Game Entry
@@ -111,10 +111,10 @@ The Internet is the global system of interconnected computer networks that use t
     3. Other players
 
     4. Score Card (Table)
-      *Hole
-      *Par
-      *Scores
-      *Current Score
+      * Hole
+      * Par
+      * Scores
+      * Current Score
       * Validation for league play
   
 ## HTML We Worked With (Not Sure if we need this)
