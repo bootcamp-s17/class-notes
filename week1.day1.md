@@ -52,54 +52,54 @@ The Internet is the global system of interconnected computer networks that use t
 
 3. Registration
   * Requiered
-      a. First Name
-      b. Last Name
-      c. Username
-      d. Email
-      e. Password
-      f. Confirm Password
-      g. Captcha ?
+      1. First Name
+      2. Last Name
+      3. Username
+      4. Email
+      5. Password
+      6. Confirm Password
+      7. Captcha ?
   * Not Req
-    a. payment
-    b. picture    
+    1. payment
+    2. picture    
 
 4.  Log in screen
-  *Form
-    *User & Password
-    *Submit 
-  *3rd party log-in auth (FB, GooG, Twitter )
-  *Forgot Password and Username
-  *Remember me 
+  * Form
+    1. User & Password
+    2. Submit 
+  * 3rd party log-in auth (FB, GooG, Twitter )
+  * Forgot Password and Username
+  * Remember me 
   
 5. Profile
 
 6. Help
 
 7. Menu
-  *Login
-  *Register
-  *Home
+  * Login
+  * Register
+  * Home
 
 8. Pages
   * Home
     a. About
   * MyGames
-    a. add new game entry
-    b. current game
-    c. List games
-    d. Filter the list
-    e. Detail page
+    1. add new game entry
+    2. current game
+    3. List games
+    4. Filter the list
+    5. Detail page
   * Ranking
   * Find other Players
-    * Review other players
-    * Search Form
+    1. Review other players
+    2. Search Form
   * Map of Local Courses
-    a. Reviews of courses
+    1. Reviews of courses
   * Schedule/Calender
-    a. People Scheduling Games
-    b. Course changes  
-    c. Tournements
-    d. Leagues 
+    1. People Scheduling Games
+    2. Course changes  
+    3. Tournements
+    4. Leagues 
  * Resources  
  * Contact Local Organizers 
 
