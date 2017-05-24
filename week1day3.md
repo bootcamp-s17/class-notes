@@ -93,3 +93,19 @@ For example images: docs (branch) - requirements.md "Requirements will go here"
  #### Janine talked about what it looks like for the rest of the bootcamp ad why we are . We're building a portfolio and we are taking baby steps. HTML/CSS --> Bootstrap, Javascript --> Angular, PHP --> Laravel, one week of content management system, then two weeks of group projects and two weeks of personal projects. We are trying to get to a point where we will have the tools are necessary. We work on the tools we have and get further down the list. We build on the tools we have in toolkit. 
 
  ###### Start thinking about what you want to do for your final project. 
+
+ 
+For example images: docs (branch) - requirements.md "Requirements will go here"
+
+Mark suggested a notification to remind of an event. Janine said that we should do that as a special project (would be super cool!)
+
+Another project would be to research and add an actual forum to the website.
+
+Janine talked about what it looks like for the rest of the bootcamp ad why we are . We're building a portfolio and we are taking baby steps. HTML/CSS --> Bootstrap, Javascript --> Angular, PHP --> Laravel, one week of content management system, then two weeks of group projects and two weeks of personal projects. We are trying to get to a point where we will have the tools are necessary. We work on the tools we have and get further down the list. We build on the tools we have in toolkit.
+
+Start thinking about what you want to do for your final project.
+
+Left the day off with talking about:
+* partials for navbars and footers and modals
+* calendars
+* carousel
