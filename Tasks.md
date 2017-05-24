@@ -5,7 +5,7 @@ a document to keep us on task with what we are currently working on. (change thi
  use tildes to make strikethrough
 
 ## Ongoing
-1. ~ example strikethrough of completed task. ~
+1. ~~ example strikethrough of completed task. ~~
 1. Keep a "time card" of sorts to keep track of coding hours for later use.
 
 ## Current
