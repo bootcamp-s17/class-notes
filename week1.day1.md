@@ -109,7 +109,6 @@ The Internet is the global system of interconnected computer networks that use t
     1. Course
     2. Date
     3. Other players
-
     4. Score Card (Table)
       * Hole
       * Par
