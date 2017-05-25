@@ -1,4 +1,4 @@
-# Week 1, Day 1 Notes
+# Week 1, Day 3 Notes
 
 ## Morning Warm-ups
 
